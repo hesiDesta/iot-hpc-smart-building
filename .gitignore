@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+data/*.csv
+results/*.csv
+results/*.png
+results/*.npy
+*.out
+*.err
